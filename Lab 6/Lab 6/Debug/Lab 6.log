@@ -1,0 +1,5 @@
+﻿  Lab 6.cpp
+C:\Users\Lyx\Desktop\Проекты\Lab 6\Lab 6\Lab 6.cpp(17,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Lyx\Desktop\Проекты\Lab 6\Lab 6\Lab 6.cpp(25,21): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Lyx\Desktop\Проекты\Lab 6\Lab 6\Lab 6.cpp(52,25): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  Lab 6.vcxproj -> C:\Users\Lyx\Desktop\Проекты\Lab 6\Debug\Lab 6.exe
